@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Samar4306
+- 👋 Hi, I am Samar Maurya
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning computer science and engineering.
-- 💞️ I’m looking to collaborate on IT Company
+- 🌱 I have recently completed  computer science and engineering.
+- 💞️ I’m looking to a job  on IT Company
 -  Mail me at samarmaurya2522@gmail.com
 
 <!---
